@@ -5,9 +5,9 @@
 
 
 
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 # .env 파일 안의 OPENAI_API_KEY 읽기
-load_dotenv()
+#load_dotenv()
 
 import os
 import tempfile
