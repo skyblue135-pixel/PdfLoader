@@ -1,8 +1,8 @@
 langchain-community
-angchain-text-splitters
+langchain-text-splitters
 langchain-openai 
 langchain-chroma
 streamlit
-load_dotenv
+load
 tiktoken
 
