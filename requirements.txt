@@ -1,0 +1,8 @@
+langchain-community
+angchain-text-splitters
+langchain-openai 
+langchain-chroma
+streamlit
+load_dotenv
+tiktoken
+
