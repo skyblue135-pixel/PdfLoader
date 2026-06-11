@@ -5,5 +5,4 @@ langchain-chroma
 langchain_classic
 langchain_core
 pypdf
-streamlit
 tiktoken
